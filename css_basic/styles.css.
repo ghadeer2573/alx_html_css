@@ -9,6 +9,11 @@ main {
   flex-direction: row; /* horizontal: article + aside */
   flex: auto; /* auto expand */
 }
+.logo {
+  font-size: 2rem;
+  margin-right: 1rem;
+}
+
 
 /* Article = 2/3 width */
 article {
